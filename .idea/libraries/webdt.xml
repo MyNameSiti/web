@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="webdt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webdt.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
